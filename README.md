@@ -1,2 +1,5 @@
 # phyton
- here it is for the exercises that I will do
+ Homeworks
+ Vargas Perez Josue Miguel 
+ Aquino del Angel Oswaldo
+ 3c
